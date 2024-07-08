@@ -1,0 +1,15 @@
+.notification{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    border-radius: 5px;
+    color : white
+
+    
+}
+.postio{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
